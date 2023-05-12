@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Vladimir Kara-Murza: Russian opposition figure jailed for 25 years",
+    "description": "The former journalist denies the charges against him, which are linked to his anti-war comments.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65297003",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-04-17T08:52:19.4343736Z",
+    "content": "Opposition activist Vladimir Kara-Murza has been sentenced to 25 years in jail for treason and other charges linked to his criticism of the war in Ukraine.\r\nThe Russian-British former journalist and … [+651 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Maharashtra: Eleven die of heatstroke at Indian award event",
+    "description": "The government-sponsored event was held in India's Maharashtra state in an open ground.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-65296164",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/116FA/production/_129381417_signal-2023-04-17-092728_002.jpg",
+    "publishedAt": "2023-04-17T08:07:25.5912837Z",
+    "content": "Eleven people have died from heatstroke while many others have been admitted to hospital after attending an awards ceremony in India's Maharashtra state.\r\nThe government-sponsored event took place in… [+2519 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sudan: Explosions and gunfire in Khartoum as fighting rages",
+    "description": "Almost 100 civilians have died during the violence, according to the Sudanese doctors' union.",
+    "url": "http://www.bbc.co.uk/news/live/world-africa-65285254",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-04-17T08:07:24.5914225Z",
+    "content": "President Museveni was involved in Sudan mediationImage caption: President Museveni was involved in Sudan mediation\r\nUgandas President Yoweri Museveni has condemned the misuse of force\" in the Sudan … [+1154 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sudan crisis: Shock and anger in Khartoum, a city not used to war",
+    "description": "Residents say stray bullets and threatened neighbourhood sweeps by armed forces mean nowhere is safe.",
+    "url": "http://www.bbc.co.uk/news/world-africa-65293537",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EDE1/production/_129379806_gettyimages-1251873613.jpg",
+    "publishedAt": "2023-04-17T07:37:21.4511316Z",
+    "content": "Khartoum city streets were mostly empty of people and traffic on Sunday, with both warring sides mounting roadblocks.\r\nBut long queues formed at bakeries and the few shops that remained open, as some… [+4630 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Elon Musk's SpaceX firm set to fly giant Starship rocket system",
+    "description": "Elon Musk's company is counting down to the debut launch of the most powerful rocket ever built.",
+    "url": "http://www.bbc.co.uk/news/science-environment-65294084",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB85/production/_129379165_index.jpg",
+    "publishedAt": "2023-04-17T05:37:10.4499978Z",
+    "content": "The most powerful rocket ever developed is about to attempt a maiden launch. \r\nThe vehicle, known as Starship, has been built by the American entrepreneur Elon Musk's SpaceX company. \r\nIt stands almo… [+4257 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Papua: At least one killed in hunt for kidnapped NZ pilot Philip Mehrtens",
+    "description": "At least one Indonesian soldier has been killed while trying to find kidnapped pilot Philip Mehrtens.",
+    "url": "http://www.bbc.co.uk/news/world-asia-65295678",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA72/production/_129381006_68132b75b48d9c592626d9fa5e86b64a71b619df.jpg",
+    "publishedAt": "2023-04-17T04:52:18.0909158Z",
+    "content": "At least one Indonesian soldier has been killed in a rebel attack while searching for a kidnapped New Zealand pilot in the Papua region, officials say.\r\nRebels later claimed nine soldiers were shot d… [+2327 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ahmad Jamal dies at 92: Acclaimed jazz pianist who influenced Miles Davis",
+    "description": "He inspired generations of musicians including Miles Davis and was known for his sparse playing style.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-65295893",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5EFE/production/_129381342_gettyimages-161032709.jpg",
+    "publishedAt": "2023-04-17T04:37:14.6221746Z",
+    "content": "Acclaimed jazz pianist, composer and band leader Ahmad Jamal has died aged 92, his wife has said.\r\nThe cause was prostate cancer, his daughter Sumayah Jamal told the New York Times.\r\nAhmad Jamal was … [+1717 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Angry Birds: Sega in talks to buy video game maker Rovio",
+    "description": "The Japan-based entertainment giant Sega is in discussions over a deal for Rovio reportedly worth $1bn.",
+    "url": "http://www.bbc.co.uk/news/business-65295724",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/132C/production/_129380940_capture.jpg",
+    "publishedAt": "2023-04-17T04:22:17.7309744Z",
+    "content": "The maker of the Angry Birds video games, Rovio Entertainment, says it has held talks with larger rival Sega Sammy Holdings over its possible takeover.\r\nIn February, Rovio announced it had launched a… [+1802 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Alabama shooting: Four dead at Dadeville 16th birthday party",
+    "description": "The shooting at a dance studio in the small town of Dadeville leaves 28 people injured.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65293737",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/484C/production/_129380581_dadevillemassshooting.png",
+    "publishedAt": "2023-04-17T00:52:17.0124433Z",
+    "content": "At least four people have been killed in a mass shooting at a 16th birthday party in the US state of Alabama.\r\nTwenty-eight people were injured, some critically, after shots were fired at the Mahogan… [+4198 chars]"
+    },
+   {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Atiq Ahmed: The brazen murder of an Indian mafia don-turned-politician",
+    "description": "Atiq Ahmed, shot dead live on TV, built a fiefdom in northern India but his power had begun to wane.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-65291781",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151CD/production/_129377468_20230415345l.jpg",
+    "publishedAt": "2023-04-16T10:37:16.345343Z",
+    "content": "It was all over in less than a minute. \r\nFootage from Saturday night shows mafia don-turned-politician Atiq Ahmed getting out from the back of a police jeep near a hospital in the city of Prayagraj, … [+5302 chars]"
+    }
+    ]
+    }
+    
